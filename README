@@ -1,0 +1,11 @@
+Pong - Nicholas Grace (ngr55), Jack Miller (jmi145)
+
+Welcome to pong, a two player game between two UC funkits.
+To load the program onto your funkit, run make program.
+When the game starts, the blue led will be on, indicating the game is waiting to start. Make sure the two funkits are facing each other for best performance.
+To begin, press navswitch down, the goal of the game is to hit the bouncing ball with your paddle, which you move across the bottom of the display.
+Move the paddle with navswith north and south.
+To hit a power shot, use navswitch west when the ball is ahead of the paddle - this will make the ball increase in speed.
+When a player wins a round, the score will be displayed as two columns, until either user presses navswitch down to start the next round.
+Once a player scores three points, the game is over and the score will be displayed as two double width columns.
+Once the game is complete, reset both funkits (by holding button 2, then pressing the reset button) to play again. 
